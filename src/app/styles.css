@@ -38,3 +38,26 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+
+h2 {
+    margin-top: 30px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+li button {
+    background-color: #dc3545;
+    margin-left: 20px;
+}
+
+li button:hover {
+    background-color: #c82333;
+}
